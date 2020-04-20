@@ -1,0 +1,37 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\leonardo"
+  },
+  {
+    "Sourcefile": "c:\\Users\\ngjel\\Documents\\GitHub\\breadboard-macro\\build\\sketch\\app.ino.cpp",
+    "Include": "Keyboard.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\libraries\\Keyboard\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\ngjel\\Documents\\GitHub\\breadboard-macro\\build\\sketch\\app.ino.cpp",
+    "Include": "HID.h",
+    "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\HID\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\ngjel\\Documents\\GitHub\\breadboard-macro\\build\\sketch\\app.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\libraries\\Keyboard\\src\\Keyboard.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\libraries\\HID\\src\\HID.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
